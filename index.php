@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<h1>Final Activity1</h1>
     <h1>To-Do List</h1>
     <form action="add_task.php" method="post">
         <input type="text" name="task_name" placeholder="Task name" required>
